@@ -20,8 +20,8 @@ url='https://poloniex.com/public?command=returnChartData&currencyPair=USDT_ETH&s
 print (url)
 r=requests.get(url)
 # From Coinbase
-api_key = 's1WsCyV7kf8iYcDz'
-api_secret = '87YKAW4YDUtUmT4H64CfIs74SGd0dQLa'
+api_key = 'I WAS DUMB'
+api_secret = 'I WAS DUMB'
 # client = Client(api_key,api_secret)
 #
 # currency_code = 'USD'
